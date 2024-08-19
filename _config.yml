@@ -1,0 +1,67 @@
+title: AI + Machine Learning + Robots
+author: andyg
+url: https://ai-ml-robots.github.io  # root address of the site
+description: >-  # this means to ignore newlines until "baseurl:"
+  Information supporting this meet-up group based in Melbourne, Australia
+
+permalink: /:slug
+
+favicon: "./logo.png"  # relative path to site's favicon
+
+#theme: moonwalk  # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
+remote_theme: abhinavs/moonwalk
+
+theme_config:
+  appearance: "dark"  # can be "light", "dark" or "auto"
+  appearance_toggle: true  # if appearance can be switched by user
+  back_home_text: "home"  # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d"  # customize how date is formatted
+  show_description: true  # show blog description
+  show_navbar: true  # show horizontal navbar
+  show_footer: true  # show footer links in home page, add in _data/home.yml
+  show_copyright: false  # show copyright notice in footer
+  # following keys are using to create home layout
+  show_projects: false  # show projects as cards, add in _data/home.yml
+  show_blog: true  # show blog posts added in _posts
+  show_old_projects: false  # show old projects as cards, add in _data/home.yml
+  show_misc_list: false  # show generic vertical list for misc details, add _data/home.yml
+  show_reading_time: true  # show number of words and reading time in the blog posts
+  show_tags: true  # show tags in blog posts
+  # options for "home" page
+  home:
+  # title_blog: Blog
+    title_misc_list: Details
+    title_projects: Projects
+    title_old_projects: Old Projects
+
+highlighter: rouge
+
+sass:
+  style: :compressed
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - licenses/
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - z_notes.txt

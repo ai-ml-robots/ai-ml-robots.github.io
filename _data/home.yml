@@ -1,0 +1,53 @@
+navbar_entries:
+# - title: about
+#   url: about
+
+# - title: blog
+#   url: blog
+
+# - title: events
+#   url: events
+
+# - title: projects
+#   url: projects
+
+project_entries:
+# - title: Aiko Services
+#   url: projects/aiko_services
+#   desc: Distributed embedded systems framework
+
+old_project_entries:
+  - title: Old Project 1
+    url: https://www.example.com
+    desc: Description
+    highlight: NEW
+
+footer_entries:
+  - title: web site
+    url: https://ai-ml-robots.github.io
+
+  - title: github
+    url: https://github.com/ai-ml-robots
+
+  - title: meet-up
+    url: https://www.meetup.com/ai-ml-robots
+
+  - title: rss feed
+    url: feed.xml
+
+  - title: wiki
+    url: https://github.com/ai-ml-robots/ai-ml-robots.github.io/wiki
+
+misc_entries:
+  - title: This is an example vertical list
+    url: false
+
+  - title: Show or hide using a boolean flag in _config.yml
+    url: false
+
+  - title: Can add data in _data/home.yml
+    url: false
+
+  - title: Blog posts
+    post_list: true
+    url: false
