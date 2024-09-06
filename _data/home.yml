@@ -23,8 +23,8 @@ old_project_entries:
     highlight: NEW
 
 footer_entries:
-  - title: web site
-    url: https://ai-ml-robots.github.io
+  - title: discussions
+    url: https://github.com/ai-ml-robots/ai-ml-robots.github.io/discussions
 
   - title: github
     url: https://github.com/ai-ml-robots
@@ -32,8 +32,14 @@ footer_entries:
   - title: meet-up
     url: https://www.meetup.com/ai-ml-robots
 
+  - title: signal
+    url: https://signal.group/#CjQKIGXJXvszdtKjrNhLw517IGrDB3XHOHsRlNjAuqveI1UCEhC98bWmG_huGi9Vm2AE2OLK
+
   - title: rss feed
     url: feed.xml
+
+  - title: web site
+    url: https://ai-ml-robots.github.io
 
   - title: wiki
     url: https://github.com/ai-ml-robots/ai-ml-robots.github.io/wiki
