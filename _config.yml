@@ -2,7 +2,7 @@ title: AI + Machine Learning + Robots
 author: andyg
 url: https://ai-ml-robots.github.io  # root address of the site
 description: >-  # this means to ignore newlines until "baseurl:"
-  Information supporting this meet-up group based in Melbourne, Australia
+  Inclusive technology development community based in Melbourne, Australia.
 
 permalink: /:slug
 

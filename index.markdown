@@ -4,16 +4,23 @@
 
 layout: home
 ---
-<h2>Monthly meet-up</h2>
+## Monthly meet-up
 
 Visit the [AI + ML + Robots meet-up page](https://www.meetup.com/ai-ml-robots)
 for details regarding the dates and location for the regular meetings.
 
-This group caters for both newcomers and experienced attendees.
+This group caters for both newcomers and experienced attendees.<br/>
 The aim is to focus on **building and developing** ...
-along with group discussion.  **So, please bring your laptop !**
+along with group discussion.<br/>
+**So, please bring your laptop** ...
+which is effectively a robot without wheels or legs !
 
-<h2>Wiki</h2>
+## In-between meetings
 
-Visit the [Wiki](https://github.com/ai-ml-robots/ai-ml-robots.github.io/wiki)
-for information and details that just won't fit onto a meet-up group page !
+On-line group annoucements and conversations occur via
+[discussions in this GitHub repository](https://github.com/ai-ml-robots/ai-ml-robots.github.io/discussions).
+
+## Wiki
+
+Visit our [Wiki](https://github.com/ai-ml-robots/ai-ml-robots.github.io/wiki)
+for further information and FAQ.
