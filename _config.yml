@@ -8,6 +8,9 @@ permalink: /:slug
 
 favicon: "./logo.png"  # relative path to site's favicon
 
+google_analytics:
+  id: "G-N622N67ETS"
+
 #theme: moonwalk  # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
 
