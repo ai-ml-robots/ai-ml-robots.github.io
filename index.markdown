@@ -17,7 +17,7 @@ which is effectively a robot without wheels or legs !
 
 ## In-between meetings
 
-On-line group annoucements and conversations occur via
+On-line group announcements and conversations occur via
 [discussions in this GitHub repository](https://github.com/ai-ml-robots/ai-ml-robots.github.io/discussions).
 
 ## Wiki
